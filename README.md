@@ -22,7 +22,7 @@ We are working on an ECommerce application using by microservices.
 
 We created DevOps pipeline for those services independently.
          
-         In order to achieve these one of the most important requirement was Git repository's for our code
+ In order to achieve these one of the most important requirement was Git repository's for our code
          
  But the main problem was whether to keep all the services in the same repository in separate folders Mono repository or to keep separate repositories for each of the services Multiple repositories.
  
